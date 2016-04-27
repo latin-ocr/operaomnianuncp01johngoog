@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnianuncp01johngoog_0007.png"; bbox 0 0 3734 5484; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 438 2210 1331 2289">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 438 2210 1331 2289">
+     <span class='ocr_line' id='line_1_1' title="bbox 438 2210 1331 2289; baseline 0.008 -8"><span class='ocrx_word' id='word_1_1' title='bbox 438 2210 636 2284; x_wconf 87' lang='lat' dir='ltr'>PATRES</span> <span class='ocrx_word' id='word_1_2' title='bbox 679 2212 948 2288; x_wconf 87' lang='lat' dir='ltr'>ECCLESIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 988 2214 1331 2289; x_wconf 83' lang='lat' dir='ltr'><strong>ANGLICANAE:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 2622 1358 2701">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 415 2622 1358 2701">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 2622 1358 2701; baseline 0.003 -15"><span class='ocrx_word' id='word_1_4' title='bbox 415 2622 446 2686; x_wconf 90' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 471 2624 672 2700; x_wconf 82' lang='lat' dir='ltr'>THOMAS,</span> <span class='ocrx_word' id='word_1_6' title='bbox 692 2623 937 2688; x_wconf 80' lang='lat' dir='ltr'>JOHANNES</span> <span class='ocrx_word' id='word_1_7' title='bbox 960 2622 1358 2701; x_wconf 82' lang='lat' dir='ltr'>SARESBERIENSIS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 324 2437 1449 2520">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 279 2317 1449 2676">
+     <span class='ocr_line' id='line_1_3' title="bbox 324 2437 1449 2520; baseline -0.001 -17.039"><span class='ocrx_word' id='word_1_8' title='bbox 324 2440 621 2518; x_wconf 78' lang='lat' dir='ltr'>ALDllELMUS,</span> <span class='ocrx_word' id='word_1_9' title='bbox 651 2441 787 2520; x_wconf 86' lang='lat' dir='ltr'>BEDA,</span> <span class='ocrx_word' id='word_1_10' title='bbox 817 2440 1105 2520; x_wconf 84' lang='lat' dir='ltr'>BONIFACIUS,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1134 2437 1449 2517; x_wconf 84' lang='lat' dir='ltr'>LANFRANCUS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 493 2806 1283 2885">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 493 2806 1283 2885">
+     <span class='ocr_line' id='line_1_4' title="bbox 493 2806 1283 2885; baseline -0.001 -15"><span class='ocrx_word' id='word_1_12' title='bbox 493 2809 670 2873; x_wconf 87' lang='lat' dir='ltr'>PETRUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 699 2807 962 2885; x_wconf 83' lang='lat' dir='ltr'>BLESENSIS,</span> <span class='ocrx_word' id='word_1_14' title='bbox 987 2808 1049 2871; x_wconf 84' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_15' title='bbox 1077 2806 1283 2880; x_wconf 85' lang='lat' dir='ltr'><strong>RELIQUI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1872 5484">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1872 5484">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1872 5484; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1872 5484; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
